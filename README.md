@@ -34,7 +34,7 @@ The model is trained on **MNIST** (70,000 labeled images) with **cross-entropy l
 A desktop GUI where the user can load an image from disk or capture one from the **webcam**, follow a live technical log of every processing step, and see the recognized number plus a history of recent results.
 
 <p align="center">
-  <img width="500" alt="Digit segmentation with bounding boxes and recognized output" src="LIEN_GENERE_PAR_GITHUB" />
+   <img width="466" height="410" alt="image" src="https://github.com/user-attachments/assets/6771b4ed-80f4-4bed-a3a7-30e2bc34ff98" />
   <br><sub><em>Segmentation (bounding boxes) and recognized output — note the leading <code>1</code> misread as a <code>3</code>, a case discussed below.</em></sub>
 </p>
 
