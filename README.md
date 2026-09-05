@@ -13,7 +13,7 @@ Most tutorials stop at recognizing a *single* handwritten digit. This project go
 
 Built as a four-person group project for the **Intelligent Systems (COS30018)** unit.
 
-## 🏗️ System architecture
+##  System architecture
 
 The system is modular, with each stage feeding the next:
 
@@ -63,7 +63,6 @@ python TextDetectionFunctional.py
 
 On first launch, if `model.pt` is missing the CNN trains itself on MNIST (a few minutes to ~20 min depending on your machine) and saves the weights for later runs.
 
-PDF
 📄 Full project report: [`docs/Final_Report.pdf`](docs/Final_Report.pdf)
 ---
 
