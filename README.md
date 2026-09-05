@@ -1,9 +1,6 @@
 <h1 align="center">🔢 Handwritten Number Recognition System</h1>
 <h4 align="center">Reading multi-digit handwritten numbers from an image — CNN + computer vision pipeline with a desktop GUI · COS30018 Intelligent Systems, Swinburne University</h4>
 
-<p align="center">
-  <img src="images/gui.png" alt="HNRS graphical interface" width="600"/>
-</p>
 
 ---
 
@@ -37,7 +34,8 @@ The model is trained on **MNIST** (70,000 labeled images) with **cross-entropy l
 A desktop GUI where the user can load an image from disk or capture one from the **webcam**, follow a live technical log of every processing step, and see the recognized number plus a history of recent results.
 
 <p align="center">
-  <img src="images/segmentation.png" alt="Digit segmentation with bounding boxes" width="600"/>
+  <img width="500" alt="Digit segmentation with bounding boxes and recognized output" src="LIEN_GENERE_PAR_GITHUB" />
+  <br><sub><em>Segmentation (bounding boxes) and recognized output — note the leading <code>1</code> misread as a <code>3</code>, a case discussed below.</em></sub>
 </p>
 
 ## 📈 Results & critical analysis
