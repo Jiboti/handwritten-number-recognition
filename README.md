@@ -63,7 +63,7 @@ python TextDetectionFunctional.py
 
 On first launch, if `model.pt` is missing the CNN trains itself on MNIST (a few minutes to ~20 min depending on your machine) and saves the weights for later runs.
 
-📄 Full project report: [`docs/Final_Report.pdf`](docs/Final_Report.pdf)
+📄 Full project report: [`Final_Report.pdf`](Final_Report.pdf)
 
 ---
 
